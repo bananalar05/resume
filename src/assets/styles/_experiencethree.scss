@@ -1,0 +1,98 @@
+.experience-three{
+  display: grid;
+  grid-template-columns: 1.7fr 0.3fr;
+  grid-column-gap: 30px;
+  &__description{
+    &__article{
+      margin-bottom: 15px;
+      h2{
+        font-size: 1.9rem;
+        font-family: 'Crete Round';  
+        margin-bottom: 10px;      
+      }
+      h3{
+        font-size: 1.5rem;
+        font-family: 'Source Sans Pro';
+        margin-bottom: 7px;               
+      }
+      a{
+        font-size: 1.3rem;
+        font-family: 'Source Sans Pro';
+        letter-spacing: 0.4px;
+        line-height: 20px;    
+      }
+    }
+  }
+  &__img{
+    width: 100%;
+    img{
+      max-width: 390px;
+      padding-top: 30px;      
+    }
+  }
+}
+@media only screen and (max-width: 880px) {
+  .experience-three{
+    display: grid;
+    grid-template-columns: 1.7fr 0.3fr;
+    grid-column-gap: 30px;
+    &__img{
+      width: 100%;
+      img{
+        max-width: 310px;
+        padding-top: 30px;
+      }
+    }
+  }
+}  
+@media only screen and (max-width: 760px) {
+  .experience-three{
+    display: block;
+    &__img{
+      width: 100%;
+      img{
+        margin: auto;
+        max-width: 310px;
+        padding-top: 30px;
+        display: block;
+        margin: auto;        
+      }
+    }
+  }
+}   
+@media only screen and (max-width: 400px) {
+  .experience-three{
+    display: block;
+    &__img{
+      width: 100%;
+      img{
+        max-width: 280px;
+        padding-top: 30px;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 370px) {
+  .experience-three{
+    display: block;
+    &__img{
+      width: 100%;
+      img{
+        max-width: 250px;
+        padding-top: 30px;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 340px) {
+  .experience-three{
+    display: block;
+    &__img{
+      width: 100%;
+      img{
+        max-width: 220px;
+        padding-top: 30px;
+      }
+    }
+  }
+}
