@@ -28,7 +28,7 @@
       <router-view></router-view>      
     </section>
     <section class="experience__wsp">
-      <a href="https://api.whatsapp.com/send?phone=51960482053&text=Hola,%20mucho%20gusto,%20soy%20Ruth%20Vera.%20Digital%20marketer%20y%20aprendiz%20de%20desarrollo%20web.%20%C2%A1No%20dudes%20en%20escribirme!%20%20">
+      <a href="https://api.whatsapp.com/send?phone=51960482053&text=Hola,%20Ruth,%20deseo%20conocer%20m%C3%A1s%20de%20tus%20servicios.">
       <svg color="#ffffff" height="35" width="35" viewBox="0 0 31.878 32.087" xmlns="http://www.w3.org/2000/svg" class="SVGIcon__CustomIcon-sc-1qhadx1-0 cNiDnv">
         <g transform="translate(3 2)"><g transform="translate(0 0)">
         <path fill="#00d56b" d="M11.686,0a11.627,11.627,0,0,1,0,23.254c-3.114,0-7.84.663-10.119-1.518C-.458,19.806.059,14.934.059,11.627A11.627,11.627,0,0,1,11.686,0Z" transform="translate(1.717 1.279)"></path>
