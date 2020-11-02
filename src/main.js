@@ -11,7 +11,7 @@ require('@/assets/plugins/fontawesome');
 const routes = [
   {
     path:"/",
-    redirect:"/Home",
+    redirect:"/home",
   },
   {
     path:"/home",

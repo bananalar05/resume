@@ -6,7 +6,7 @@
     </section>
     <section class="aboutme__description">
       <figure class="aboutme__description__article1">
-        <img src="@/assets/images/mery.png" alt="" />        
+        <img src="@/assets/images/mery2.png" alt="" />        
       </figure>
       <article class="aboutme__description__article2">
         <h2>"Paciencia, perserverancia y Pasión"</h2>
